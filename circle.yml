@@ -2,7 +2,7 @@ machine:
   php:
     version: 5.5.0
 
-dependencies:
-  pre:
-    - composer self-update
-    - composer install --dev
+# dependencies:
+#   pre:
+#     - composer self-update
+#     - composer install --dev
